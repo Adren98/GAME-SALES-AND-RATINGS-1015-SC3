@@ -39,8 +39,9 @@ for page in range(1, pages):
     game_tags=[]
     for a in soup.find_all('a', href=True):
         game_tags.append(a['href'])
-    print(game_tags)
-## code works till here
+    
+    
+
     for tag in game_tags:
 
         # add name to list
