@@ -32,20 +32,22 @@ urltail += '&showlastupdate=0&showothersales=1&showgenre=1&sort=GL'
 for page in range(1, pages):
     surl = urlhead + str(page) + urltail
     re = requests.get(surl)
-    soup = BeautifulSoup(re.text,"html.parser")
+    soup = BeautifulSoup(re.text,"lxml")
     print(f"Page: {page}")
     
     # find all the tags with href and print website name
-    game_tags=[]
-    for a in soup.find_all('a', href=True):
-        game_tags.append(a['href'])
-    
+    game_tags=list()
+    game_tags = soup.find_all('a', href=True)
+    game_tags = game_tags[10:]
+
+    #filter all the websites that start with 'https://www.vgchartz.com/game/'
+    game_tags = list(filter(lambda x: x.attrs['href'].startswith('https://www.vgchartz.com/game/'),game_tags))
     
 
     for tag in game_tags:
 
         # add name to list
-        gname.append(" ".join(tag.split()))
+        gname.append(" ".join(tag.string.split()))
         print(f"{rec_count + 1} Fetch data for game {gname[-1]}")
 
         # get different attributes
