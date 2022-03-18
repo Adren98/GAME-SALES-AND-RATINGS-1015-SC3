@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup, element
-import urllib
+import urllib.request
 import pandas as pd
 import numpy as np
 
@@ -29,9 +29,10 @@ urltail += '&showlastupdate=0&showothersales=1&showgenre=1&sort=GL'
 
 for page in range(1, pages):
     surl = urlhead + str(page) + urltail
-    r = urllib.request.urlopen(surl).read()
-    soup = BeautifulSoup(r)
-    print(f"Page: {page}")
+    with urllib.request.urlopen(surl) as response:
+        r = response.read()
+        soup = BeautifulSoup(r)
+        print(f"Page: {page}")
 
     # vgchartz website is really weird so we have to search for
     # <a> tags with game urls
