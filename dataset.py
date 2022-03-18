@@ -1,4 +1,6 @@
 from bs4 import BeautifulSoup, element
+import requests
+import urllib
 import urllib.request
 import pandas as pd
 import numpy as np
@@ -29,24 +31,20 @@ urltail += '&showlastupdate=0&showothersales=1&showgenre=1&sort=GL'
 
 for page in range(1, pages):
     surl = urlhead + str(page) + urltail
-    with urllib.request.urlopen(surl) as response:
-        r = response.read()
-        soup = BeautifulSoup(r)
-        print(f"Page: {page}")
-
-    # vgchartz website is really weird so we have to search for
-    # <a> tags with game urls
-    game_tags = list(filter(
-        lambda x: x.attrs['href'].startswith('http://www.vgchartz.com/game/'),
-        # discard the first 10 elements because those
-        # links are in the navigation bar
-        soup.find_all("a")
-    ))[10:]
-
+    re = requests.get(surl)
+    soup = BeautifulSoup(re.text,"html.parser")
+    print(f"Page: {page}")
+    
+    # find all the tags with href and print website name
+    game_tags=[]
+    for a in soup.find_all('a', href=True):
+        game_tags.append(a['href'])
+    print(game_tags)
+## code works till here
     for tag in game_tags:
 
         # add name to list
-        gname.append(" ".join(tag.string.split()))
+        gname.append(" ".join(tag.split()))
         print(f"{rec_count + 1} Fetch data for game {gname[-1]}")
 
         # get different attributes
