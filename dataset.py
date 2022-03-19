@@ -5,7 +5,7 @@ import urllib.request
 import pandas as pd
 import numpy as np
 
-pages = 2
+pages = 63
 rec_count = 0
 rank = []
 gname = []
@@ -83,7 +83,7 @@ for page in range(1, pages):
         if release_year.startswith('N/A'):
             year.append('N/A')
         else:
-            if int(release_year) >= 95:
+            if int(release_year) >= 22:
                 year_to_add = np.int32("19" + release_year)
             else:
                 year_to_add = np.int32("20" + release_year)
