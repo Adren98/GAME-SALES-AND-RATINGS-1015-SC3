@@ -36,7 +36,7 @@ for page in range(1, pages):
     print(f"Page: {page}")
     
     # find all the tags with href and print website name
-    game_tags=list()
+    game_tags = list()
     game_tags = soup.find_all('a', href=True)
     game_tags = game_tags[10:]
 
