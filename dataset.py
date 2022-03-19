@@ -105,8 +105,7 @@ for page in range(1, pages):
         genre.append(temp_tag.next_sibling.string)
 
         rec_count += 1
-
-columns = {
+    columns = {
     'Rank': rank,
     'Name': gname,
     'Platform': platform,
@@ -121,12 +120,16 @@ columns = {
     'JP_Sales': sales_jp,
     'Other_Sales': sales_ot,
     'Global_Sales': sales_gl
-}
-print(rec_count)
-df = pd.DataFrame(columns)
-print(df.columns)
-df = df[[
-    'Rank', 'Name', 'Platform', 'Year', 'Genre',
-    'Publisher', 'Developer', 'Critic_Score', 'User_Score',
-    'NA_Sales', 'PAL_Sales', 'JP_Sales', 'Other_Sales', 'Global_Sales']]
-df.to_csv("vgsales.csv", sep=",", encoding='utf-8', index=False)
+    }
+    print(rec_count)
+    df = pd.DataFrame(columns)
+    print(df.columns)
+    print(rec_count)
+    df = pd.DataFrame(columns)
+    print(df.columns)
+    df = df[[
+        'Rank', 'Name', 'Platform', 'Year', 'Genre',
+        'Publisher', 'Developer', 'Critic_Score', 'User_Score',
+        'NA_Sales', 'PAL_Sales', 'JP_Sales', 'Other_Sales', 'Global_Sales']]
+    filename = "page{}.csv".format(page)
+    df.to_csv(filename, sep=",", encoding='utf-8', index=False)
