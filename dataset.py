@@ -29,10 +29,10 @@ urltail += '&showpublisher=1&showvgchartzscore=0&shownasales=1&showdeveloper=1&s
 urltail += '&showpalsales=0&showpalsales=1&showreleasedate=1&showuserscore=1&showjapansales=1'
 urltail += '&showlastupdate=0&showothersales=1&showgenre=1&sort=GL'
 
-for page in range(17, pages):
+for page in range(20, 25):
     surl = urlhead + str(page) + urltail
     re = requests.get(surl)
-    soup = BeautifulSoup(re.text,"lxml")
+    soup = BeautifulSoup(re.text, "lxml")
     print(f"Page: {page}")
     
     # find all the tags with href and print website name
@@ -40,12 +40,10 @@ for page in range(17, pages):
     game_tags = soup.find_all('a', href=True)
     game_tags = game_tags[10:]
 
-    #filter all the websites that start with 'https://www.vgchartz.com/game/'
+    # filter all the websites that start with 'https://www.vgchartz.com/game/'
     game_tags = list(filter(lambda x: x.attrs['href'].startswith('https://www.vgchartz.com/game/'),game_tags))
     
-
     for tag in game_tags:
-
         # add name to list
         gname.append(" ".join(tag.string.split()))
         print(f"{rec_count + 1} Fetch data for game {gname[-1]}")
@@ -106,20 +104,20 @@ for page in range(17, pages):
 
         rec_count += 1
     columns = {
-    'Rank': rank,
-    'Name': gname,
-    'Platform': platform,
-    'Year': year,
-    'Genre': genre,
-    'Critic_Score': critic_score,
-    'User_Score': user_score,
-    'Publisher': publisher,
-    'Developer': developer,
-    'NA_Sales': sales_na,
-    'PAL_Sales': sales_pal,
-    'JP_Sales': sales_jp,
-    'Other_Sales': sales_ot,
-    'Global_Sales': sales_gl
+        'Rank': rank,
+        'Name': gname,
+        'Platform': platform,
+        'Year': year,
+        'Genre': genre,
+        'Critic_Score': critic_score,
+        'User_Score': user_score,
+        'Publisher': publisher,
+        'Developer': developer,
+        'NA_Sales': sales_na,
+        'PAL_Sales': sales_pal,
+        'JP_Sales': sales_jp,
+        'Other_Sales': sales_ot,
+        'Global_Sales': sales_gl
     }
     print(rec_count)
     df = pd.DataFrame(columns)
