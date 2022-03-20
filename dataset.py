@@ -29,7 +29,7 @@ urltail += '&showpublisher=1&showvgchartzscore=0&shownasales=1&showdeveloper=1&s
 urltail += '&showpalsales=0&showpalsales=1&showreleasedate=1&showuserscore=1&showjapansales=1'
 urltail += '&showlastupdate=0&showothersales=1&showgenre=1&sort=GL'
 
-for page in range(11, pages):
+for page in range(14, pages):
     surl = urlhead + str(page) + urltail
     re = requests.get(surl)
     soup = BeautifulSoup(re.text,"lxml")
