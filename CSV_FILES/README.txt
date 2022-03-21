@@ -4,3 +4,8 @@ Things to note about these CSV files
 2. pages 2 to 8 are duplicated in page 9, so effectively we can ignore 2 to 8
 3. page 10 is standalone (not duplicated)
 4. pages 11 and 12 are duplicated in page 13
+5. pages 14 and 15 are duplicated in page 16
+6. pages 17 to 23 are standalone
+7. page 24 is duplicated in page 25
+8. page 26 and page 27 are standalone
+9. pages 28 and 29 is duplicated in page 30
