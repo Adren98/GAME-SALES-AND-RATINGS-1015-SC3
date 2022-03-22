@@ -16,4 +16,11 @@ Things to note about these CSV files
 14. pages 37 to 39 are duplicated in page 40
 15. pages 41 to 43 are duplicated in page 44
 16. page 45 is duplicated in page 46
-17. page 47 is standalone
+17. page 47 and 48 are standalone
+18. page 49 is duplicated in page 50
+19. pages 51 to 54 are duplicated in page 55
+20. pages 56 to 59 are duplicated in page 60
+21. pages 61 and 62 are duplicated in page 63
+
+
+** LAST UPDATE **
