@@ -119,7 +119,7 @@
 117,SSX,PS2,93,8.1,2064,2000.0,Sports,EA Sports BIG   ,EA Canada  ,,,0.78,0.61,0.06,0.2,1.66
 118,Street Fighter IV,X360,93,7.3,1199,2009.0,Fighting,Capcom  ,Capcom / Dimps Corporation  ,9.3,9.3,1.83,0.7,0.15,0.26,2.95
 119,Minecraft,PC,93,8.0,87,2010.0,Misc,Mojang  ,Mojang AB  ,10.0,,,,,,
-120,Undertale,NS,93,8.2,19233,2018.0,Role-Playing,2022-08-04 00:00:00,Toby Fox  ,9.0,,,,0.02,,0.02
+120,Undertale,NS,93,8.2,19233,2018.0,Role-Playing,4-Aug,Toby Fox  ,9.0,,,,0.02,,0.02
 121,Persona 4 Golden,PSV,93,8.6,2266,2012.0,Role-Playing,Atlus  ,Atlus  ,,,0.37,0.29,0.39,0.21,1.25
 122,Persona 5,PS4,93,8.7,2081,2017.0,Role-Playing,Atlus  ,Atlus  ,,,0.62,0.34,0.48,0.2,1.64
 123,Red Dead Redemption 2,PC,93,6.2,58740,2019.0,Action-Adventure,Rockstar Games  ,Rockstar Games  ,,,,,,,
@@ -377,7 +377,7 @@
 375,Velocity 2X,PSV,90,7.2,22694,2014.0,Action,Futurlab 1  ,FuturLab  ,,,,0.0,,0.0,0.0
 376,Burnout Revenge,PS2,90,8.9,3714,2005.0,Racing,Electronic Arts  ,Criterion Games  ,9.0,,0.75,0.03,,0.12,0.9
 377,Tony Hawk's Pro Skater 3,PC,90,8.4,50940,2002.0,Sports,Activision  ,Gearbox Software  ,,,,,,,
-378,NCAA Football 2002,PS2,90,8.4,2155,2001.0,Sports,EA Sports  ,EAÂ Tiburon  ,,,0.77,0.6,,0.2,1.57
+378,NCAA Football 2002,PS2,90,8.4,2155,2001.0,Sports,EA Sports  ,EA Tiburon  ,,,0.77,0.6,,0.2,1.57
 379,Unreal Tournament,DC,90,8.9,51813,2001.0,Shooter,Infogrames  ,Secret Level  ,9.3,,,,,,
 380,Deus Ex,PC,90,9.2,20417,2000.0,Shooter,Eidos Interactive  ,Ion Storm  ,9.2,,,0.01,,0.0,0.01
 381,Donkey Kong 64,N64,90,8.6,647,1999.0,Platform,Nintendo  ,Rare Ltd.  ,9.3,,3.33,0.79,1.09,0.06,5.27
@@ -645,7 +645,7 @@
 643,Uncharted: Drake's Fortune,PS3,88,7.9,724,2007.0,Action,Sony Computer Entertainment  ,Naughty Dog  ,8.7,8.6,2.32,1.73,0.12,0.8,4.97
 644,Ori and the Will of the Wisps,PC,88,8.7,58231,2020.0,Action-Adventure,Xbox Game Studios  ,Moon Studios  ,,,,,,,
 645,Tiger Woods PGA Tour 2005,XB,88,7.4,3870,2004.0,Sports,EA Sports  ,EA Redwood Shores  ,,,0.64,0.18,,0.03,0.85
-646,Tiger Woods PGA Tour 2004,PC,88,7.3,21666,2003.0,Sports,EA Sports  ,HeadgateÂ StudiosÂ   ,,,0.0,0.0,,0.0,0.0
+646,Tiger Woods PGA Tour 2004,PC,88,7.3,21666,2003.0,Sports,EA Sports  ,Headgate Studios   ,,,0.0,0.0,,0.0,0.0
 647,Warcraft III: The Frozen Throne,PC,88,9.2,1408,2003.0,Strategy,Blizzard Entertainment  ,Blizzard Entertainment  ,9.2,,0.58,0.87,,0.09,1.54
 648,Tiger Woods PGA Tour 2003,XB,88,6.9,6230,2002.0,Sports,EA Sports  ,EA Redwood Shores  ,,,0.35,0.08,,0.01,0.44
 649,Tactics Ogre: The Knight of Lodis,GBA,88,8.8,5723,2002.0,Role-Playing,Atlus  ,Quest Corporation  ,8.5,,0.13,0.05,0.31,0.01,0.5
@@ -703,7 +703,7 @@
 701,Devil May Cry 5,PS4,88,8.4,55713,2019.0,Action,Capcom  ,Capcom  ,,,,,,,
 702,Doom 3,XB,88,8.1,2537,2005.0,Shooter,Activision  ,Vicarious Visions  ,,,0.85,0.43,,0.06,1.34
 703,FIFA Soccer 2003,PS2,88,6.5,1028,2002.0,Sports,EA Sports  ,EA Canada  ,,,0.46,2.28,0.05,0.61,3.4
-704,F1 2002,PC,88,7.5,22575,2002.0,Racing,EA Sports  ,ImageÂ SpaceÂ Inc.  ,,,,0.0,,0.0,0.0
+704,F1 2002,PC,88,7.5,22575,2002.0,Racing,EA Sports  ,Image Space Inc.  ,,,,0.0,,0.0,0.0
 705,Tekken: Dark Resurrection,PSP,88,8.6,1033,2006.0,Fighting,Namco Bandai  ,8ing/Raizing  ,8.7,,0.76,1.1,0.12,0.65,2.62
 706,The Stanley Parable,PC,88,8.1,3442,2013.0,Adventure,Galactic Cafe  ,Galactic Cafe  ,,,,,,,
 707,Slay the Spire,PS4,88,6.9,59358,2019.0,Puzzle,Humble Bundle  ,MegaCrit  ,,,,,,,
@@ -1367,7 +1367,7 @@
 1365,EverQuest: Gates of Discord,PC,85,7.3,31648,2004.0,Role-Playing,Sony Online Entertainment  ,Sony Online Entertainment  ,,,,,,,
 1366,The Lord of the Rings: The Return of the King,PS2,85,8.6,1054,2003.0,Action,Electronic Arts  ,"Hypnos Entertainment, Inc.  ",8.4,,1.5,1.28,0.05,0.46,3.28
 1367,FIFA 2001 Major League Soccer,PC,85,6.8,32241,2000.0,Sports,EA Sports  ,EA Canada  ,,,,,,,
-1368,Fight Night 2004,XB,85,8.3,4529,2004.0,Fighting,EA Sports  ,EAÂ Canada  ,,,0.51,0.15,,0.02,0.68
+1368,Fight Night 2004,XB,85,8.3,4529,2004.0,Fighting,EA Sports  ,EA Canada  ,,,0.51,0.15,,0.02,0.68
 1369,Sid Meier's Civilization V: Brave New World,PC,85,8.6,46108,2013.0,Action,2K Games  ,Unknown  ,,,,,,,
 1370,The Warriors,XB,85,8.2,8232,2005.0,Action,Rockstar Games  ,Rockstar Toronto  ,,,0.21,0.06,,0.01,0.28
 1371,Red Faction: Guerrilla,X360,85,8.0,3821,2009.0,Shooter,THQ  ,Volition Inc.  ,8.4,,0.48,0.29,0.01,0.09,0.87
@@ -1427,7 +1427,7 @@
 1425,428: Shibuya Scramble,PS4,85,7.6,19161,2018.0,Visual Novel,Spike Chunsoft  ,Abstraction Games  ,,,0.01,,0.01,0.0,0.02
 1426,Ratchet & Clank: Size Matters,PSP,85,8.1,937,2007.0,Platform,Sony Computer Entertainment  ,High Impact Games  ,8.5,,1.4,1.4,0.1,0.86,3.75
 1427,FIFA 07 Soccer,XB,85,8.1,5340,2006.0,Sports,EA Sports  ,EA Canada  ,8.1,,0.16,0.35,,0.04,0.54
-1428,Fight Night 2004,PS2,85,8.7,2323,2004.0,Fighting,EA Sports  ,EAÂ Canada  ,,,1.08,0.2,,0.2,1.48
+1428,Fight Night 2004,PS2,85,8.7,2323,2004.0,Fighting,EA Sports  ,EA Canada  ,,,1.08,0.2,,0.2,1.48
 1429,Anarchy Online: Shadowlands,PC,85,8.4,24178,2003.0,Role-Playing,Funcom   ,Funcom  ,,,,,,,
 1430,Dark Age of Camelot: Shrouded Isles,PC,85,7.4,29309,2002.0,Role-Playing,Mythic Entertainment  ,Mythic Entertainment  ,,,,,,,
 1431,Dave Mirra Freestyle BMX 2,GBA,85,8.0,10311,2001.0,Sports,Acclaim Entertainment  ,Full Fat  ,8.0,,0.14,0.05,,0.0,0.19
@@ -1995,7 +1995,7 @@
 1993,Colin McRae Rally 2005,PC,83,7.6,20044,2004.0,Racing,Codemasters  ,Codemasters  ,,,,0.01,,0.0,0.02
 1994,James Bond 007: Everything or Nothing,XB,83,7.5,4702,2004.0,Shooter,Electronic Arts  ,EA Redwood Shores  ,,,0.43,0.19,,0.02,0.64
 1995,The Sims,PS2,83,7.6,1280,2003.0,Simulation,Electronic Arts  ,Edge of Reality  ,,,1.41,1.12,,0.24,2.77
-1996,F1 2001,XB,83,5.0,15814,2001.0,Racing,EA Sports  ,ElectronicÂ ArtsÂ UK  ,,,0.05,0.01,,0.0,0.06
+1996,F1 2001,XB,83,5.0,15814,2001.0,Racing,EA Sports  ,Electronic Arts UK  ,,,0.05,0.01,,0.0,0.06
 1997,Looney Tunes: Space Race,DC,83,8.5,37814,2000.0,Racing,Infogrames  ,Infogrames Melbourne  ,7.8,,,,,,
 1998,Tom Clancy's Splinter Cell: Conviction,PC,83,5.5,13678,2010.0,Action,Ubisoft  ,Ubisoft Montreal  ,8.0,,,0.08,,0.02,0.1
 1999,Tribes: Vengeance,PC,83,7.8,51292,2004.0,Shooter,Vivendi Games  ,Irrational Games  ,,,,,,,
@@ -2061,7 +2061,7 @@
 2059,ESPN College Hoops,PS2,83,8.5,11136,2003.0,Sports,Sega  ,Visual Concepts  ,,,0.08,0.06,,0.02,0.16
 2060,High Heat Major League Baseball 2004,PS2,83,8.2,7100,2003.0,Sports,3DO  ,3DO  ,,,0.18,0.14,,0.05,0.36
 2061,MechWarrior 4: Mercenaries,PC,83,8.5,22411,2002.0,Simulation,Microsoft Game Studios  ,FASA Studio  ,,,,0.0,,0.0,0.0
-2062,F1 2001,PS2,83,8.3,11610,2001.0,Racing,EA Sports  ,ElectronicÂ ArtsÂ UK  ,,,0.07,0.06,,0.02,0.15
+2062,F1 2001,PS2,83,8.3,11610,2001.0,Racing,EA Sports  ,Electronic Arts UK  ,,,0.07,0.06,,0.02,0.15
 2063,Breath of Fire IV,PS,83,8.6,5175,2000.0,Role-Playing,Capcom  ,Capcom  ,8.4,,0.11,0.08,0.34,0.04,0.56
 2064,Metal Gear Solid,PC,83,8.9,22253,2000.0,Action,Konami  ,Digital Dialect  ,8.5,,,0.0,,0.0,0.0
 2065,Mario Kart 64,N64,83,8.6,385,1997.0,Racing,Nintendo  ,Nintendo EAD  ,8.5,,5.55,1.94,2.23,0.15,9.87
@@ -2805,7 +2805,7 @@
 2803,Ghost Master,PC,81,7.9,22223,2003.0,Strategy,Empire Interactive  ,Sick Puppies  ,,,,0.0,,0.0,0.0
 2804,Tom Clancy's Ghost Recon: Island Thunder,XB,81,7.8,3804,2003.0,Shooter,Ubisoft  ,Red Storm Entertainment  ,,,0.61,0.24,,0.03,0.87
 2805,Divine Divinity,PC,81,8.4,22140,2002.0,Role-Playing,CDV Software Entertainment  ,Larian Studios  ,,,,0.0,,0.0,0.0
-2806,F1 2002,PS2,81,6.4,13115,2002.0,Racing,EA Sports  ,VisualÂ SciencesÂ Ltd.  ,,,0.05,0.04,0.02,0.01,0.12
+2806,F1 2002,PS2,81,6.4,13115,2002.0,Racing,EA Sports  ,Visual Sciences Ltd.  ,,,0.05,0.04,0.02,0.01,0.12
 2807,Mega Man Battle Network 2,GBA,81,8.7,5353,2002.0,Role-Playing,Capcom  ,Capcom  ,,,,,0.54,,0.54
 2808,Mega Man Battle Network 2,GBA,81,8.7,7812,2002.0,Action,Ubisoft  ,Capcom  ,,,0.22,0.08,,0.01,0.31
 2809,Breath of Fire II,GBA,81,8.3,10239,2002.0,Role-Playing,Capcom  ,Capcom  ,8.6,,0.14,0.05,,0.0,0.19
@@ -3305,7 +3305,7 @@
 3303,Revenge of the Titans,PC,79,7.6,7358,2010.0,Strategy,Puppy Games  ,Puppy Games  ,8.0,,,0.0,,,0.0
 3304,R-Type Final,PS2,79,8.5,10480,2004.0,Shooter,Eidos Interactive  ,Irem Software Engineering  ,8.1,,0.09,0.07,,0.02,0.19
 3305,Hunter: The Reckoning,XB,79,8.0,6918,2002.0,Action,Interplay  ,High Voltage Software  ,7.8,,0.28,0.08,,0.01,0.38
-3306,F1 2001,PC,79,7.1,31820,2001.0,Racing,EA Sports  ,ElectronicÂ ArtsÂ UK  ,,,,,,,
+3306,F1 2001,PC,79,7.1,31820,2001.0,Racing,EA Sports  ,Electronic Arts UK  ,,,,,,,
 3307,Tokyo Xtreme Racer 2,DC,79,7.9,50814,2000.0,Racing,Crave Entertainment  ,Genki  ,,,,,,,
 3308,Star Wars: Squadrons,PC,79,5.9,59617,2020.0,Shooter,Electronic Arts  ,Motive Studios  ,,,,,,,
 3309,Brothers in Arms: Hell's Highway,PC,79,7.7,19122,2008.0,Shooter,Ubisoft  ,Gearbox Software  ,6.0,,,0.02,,0.0,0.02
@@ -3438,7 +3438,7 @@
 3436,Ultimate Marvel vs. Capcom 3,X360,79,6.6,15602,2011.0,Fighting,Capcom  ,Capcom  ,8.3,,,0.03,0.04,0.0,0.07
 3437,Catherine,PS3,79,8.3,4392,2011.0,Puzzle,Atlus  ,Atlus  ,7.9,,0.3,0.15,0.2,0.06,0.71
 3438,Crash Bandicoot N. Sane Trilogy,XOne,79,7.9,4655,2018.0,Platform,Activision  ,Vicarious Visions  ,,,0.23,0.37,,0.05,0.65
-3439,Per Aspera,PC,79,6.7,58377,,Simulation,Unknown  ,TlÃ¶n Studios  ,,,,,,,
+3439,Per Aspera,PC,79,6.7,58377,,Simulation,Unknown  ,Tlön Studios  ,,,,,,,
 3440,Blazing Chrome,NS,79,8.0,54918,2019.0,Shooter,The Arcade Crew  ,JoyMasher  ,,,,,,,
 3441,Rome: Total War Alexander,PC,79,7.7,44722,2006.0,Strategy,Sega  ,The Creative Assembly  ,7.4,,,,,,
 3442,Street Fighter Anniversary Collection,XB,79,7.0,11588,2005.0,Fighting,Capcom  ,Capcom  ,,,0.11,0.03,,0.01,0.15
@@ -3808,7 +3808,7 @@
 3806,Hitman: Contracts,XB,78,8.6,7344,2004.0,Shooter,Eidos Interactive  ,IO Interactive  ,,,0.26,0.07,,0.01,0.34
 3807,The Lord of the Rings: The Return of the King,PC,78,7.7,49960,2003.0,Action,Electronic Arts  ,"Hypnos Entertainment, Inc.  ",,,,,,,
 3808,Crimson Sea,XB,78,8.2,14491,2002.0,Action,KOEI  ,Koei  ,,,0.04,0.01,0.04,0.0,0.09
-3809,Knockout Kings 2002,XB,78,7.0,8580,2002.0,Sports,EA Sports  ,BlackÂ OpsÂ Entertainment  ,,,0.2,0.06,,0.01,0.27
+3809,Knockout Kings 2002,XB,78,7.0,8580,2002.0,Sports,EA Sports  ,Black Ops Entertainment  ,,,0.2,0.06,,0.01,0.27
 3810,Two Worlds II: Pirates of the Flying Fortress,PC,78,7.3,51518,2011.0,Role-Playing,SouthPeak Interactive  ,Reality Pump  ,,,,,,,
 3811,Battlefield V,XOne,78,3.0,2182,2018.0,Shooter,Electronic Arts  ,EA DICE  ,,,1.05,0.35,,0.15,1.55
 3812,Devil May Cry 4,PC,78,8.5,7977,2008.0,Action,Capcom  ,Capcom  ,7.5,,0.01,0.02,,0.0,0.04
@@ -4553,7 +4553,7 @@
 4551,CT Special Forces 2: Back in the Trenches,GBA,76,8.5,20414,2004.0,Shooter,Hip Interactive  ,LSP  ,7.4,,0.01,0.0,,0.0,0.01
 4552,Vegas Tycoon,PC,76,7.4,52010,2004.0,Strategy,Global Star Software  ,Deep Red  ,7.7,,,,,,
 4553,Blood Omen 2,XB,76,7.8,10491,2002.0,Action,Eidos Interactive  ,Crystal Dynamics  ,,,0.14,0.04,,0.01,0.19
-4554,Knockout Kings 2002,PS2,76,8.5,3689,2002.0,Sports,EA Sports  ,BlackÂ OpsÂ Entertainment  ,,,0.45,0.35,,0.12,0.91
+4554,Knockout Kings 2002,PS2,76,8.5,3689,2002.0,Sports,EA Sports  ,Black Ops Entertainment  ,,,0.45,0.35,,0.12,0.91
 4555,Mega Man X5,PS,76,8.9,4206,2001.0,Platform,Capcom  ,Capcom  ,,,0.3,0.21,0.2,0.05,0.75
 4556,Endless Ocean: Blue World,Wii,76,8.5,3834,2010.0,Simulation,Nintendo  ,Arika  ,7.6,,0.46,0.22,0.12,0.06,0.87
 4557,Saints Row: The Third Remastered,XOne,76,6.9,59050,2020.0,Sandbox,THQ  ,Volition  ,,,,,,,
@@ -5895,7 +5895,7 @@
 5893,Tribes of Midgard,PC,73,7.9,60601,2021.0,Action-Adventure,Gearbox Publishing  ,Norsfell  ,,,,,,,
 5894,The Legend of Zelda: Tri Force Heroes,3DS,73,7.4,2536,2015.0,Adventure,Nintendo  ,GREZZO  ,7.4,,0.61,0.34,0.19,0.09,1.24
 5895,Ceville,PC,73,7.0,19094,2009.0,Adventure,Kalypso  ,Realmforge Studios  ,9.0,,,0.02,,0.0,0.02
-5896,Blitzkrieg: Rolling Thunder,PC,73,6.4,22587,2004.0,Strategy,CDV Software Entertainment  ,Nival Interactive / LaÂ PlataÂ Studios  ,,,,0.0,,0.0,0.0
+5896,Blitzkrieg: Rolling Thunder,PC,73,6.4,22587,2004.0,Strategy,CDV Software Entertainment  ,Nival Interactive / La Plata Studios  ,,,,0.0,,0.0,0.0
 5897,Dreamfall: The Longest Journey,XB,73,8.5,17571,2006.0,Adventure,Aspyr  ,Funcom  ,,,0.03,0.01,,0.0,0.04
 5898,Men of Valor,XB,73,7.3,8879,2004.0,Shooter,VU Games  ,"2015, Inc.  ",,,0.19,0.05,,0.01,0.25
 5899,Animal Crossing: City Folk,Wii,73,7.9,809,2008.0,Simulation,Nintendo  ,Nintendo EAD  ,7.1,8.8,1.84,1.13,1.32,0.36,4.65
@@ -6979,7 +6979,7 @@
 6977,FIFA Soccer 12,Wii,70,6.0,4160,2011.0,Sports,EA Sports  ,EA Canada  ,,,0.15,0.51,,0.1,0.76
 6978,TimeShift,X360,70,7.8,6529,2007.0,Shooter,Sierra Entertainment  ,Saber Interactive  ,7.0,,0.36,0.02,,0.03,0.41
 6979,Demon Gaze,PSV,70,8.6,10798,2014.0,Misc,NIS America  ,Unknown  ,,,0.04,0.03,0.09,0.02,0.17
-6980,Scaler,PS2,70,8.6,14217,2004.0,Platform,Global Star Software  ,ArtificialÂ MindÂ &Â Movement  ,,,0.05,0.04,,0.01,0.09
+6980,Scaler,PS2,70,8.6,14217,2004.0,Platform,Global Star Software  ,Artificial Mind & Movement  ,,,0.05,0.04,,0.01,0.09
 6981,Just Cause 4,XOne,70,5.8,8200,2018.0,Action-Adventure,Square Enix  ,Avalanche Studios  ,,,0.17,0.09,,0.03,0.29
 6982,007: Quantum of Solace,PC,70,6.3,18491,2008.0,Action,Activision  ,Beenox  ,7.1,,0.01,0.01,,0.0,0.03
 6983,Dead Rising 3: Apocalypse Edition,PC,70,5.7,29504,2014.0,Action,Capcom  ,Capcom  ,,,,,,,
@@ -7532,7 +7532,7 @@
 7530,Pariah,PC,69,5.9,22781,2005.0,Shooter,Groove Games  ,Digital Extremes  ,,,,0.0,,,0.0
 7531,Shenmue III,PC,69,6.1,59242,2019.0,Action-Adventure,Deep Silver  ,Ys Net  ,,,,,,,
 7532,Valhalla Hills,PC,69,7.1,13735,2015.0,Strategy,Daedalic Entertainment  ,Funatics Software  ,,,,,,,
-7533,Scaler,XB,69,6.7,17293,2004.0,Platform,Global Star Software  ,ArtificialÂ MindÂ &Â Movement  ,,,0.03,0.01,,0.0,0.04
+7533,Scaler,XB,69,6.7,17293,2004.0,Platform,Global Star Software  ,Artificial Mind & Movement  ,,,0.03,0.01,,0.0,0.04
 7534,The Eye of Judgment: Legends,PSP,69,7.9,20611,2010.0,Strategy,Sony Computer Entertainment  ,SCE Japan Studio  ,,,,0.0,0.01,0.0,0.01
 7535,Hey! Pikmin,3DS,69,6.8,6240,2017.0,Platform,Nintendo  ,Arzest  ,6.8,,0.17,0.08,0.17,0.03,0.44
 7536,ChromaGun,NS,69,7.0,55250,2018.0,Shooter,Pixel Maniacs  ,Pixel Maniacs  ,,,,,,,
@@ -7854,14 +7854,14 @@
 7852,Bang! Gunship Elite,PC,68,7.0,25422,2000.0,Simulation,Red Storm Entertainment  ,RayLand  ,,,,,,,
 7853,Monster Hunter,PS2,68,8.8,5739,2004.0,Role-Playing,Capcom  ,Capcom  ,,,0.11,0.08,0.28,0.03,0.5
 7854,Wallace & Gromit: Curse of the Were-Rabbit,PS2,68,3.6,12968,2005.0,Adventure,Konami  ,Frontier Developments  ,,,0.06,0.05,,0.02,0.12
-7855,Ice Age 2: The Meltdown,PS2,68,8.1,6821,2006.0,Platform,Vivendi Games  ,EurocomÂ EntertainmentÂ Software  ,7.4,,0.19,0.15,,0.05,0.39
+7855,Ice Age 2: The Meltdown,PS2,68,8.1,6821,2006.0,Platform,Vivendi Games  ,Eurocom Entertainment Software  ,7.4,,0.19,0.15,,0.05,0.39
 7856,Commander: Conquest of the Americas,PC,68,5.3,18501,2010.0,Strategy,Paradox Interactive   ,Nitro Games  ,,,,0.02,,0.0,0.03
 7857,Dear Esther: Landmark Edition,PS4,68,6.1,29541,2016.0,Adventure,Good Shepherd Entertainment  ,thechineseroom  ,,,,,,,
 7858,Treasure World,DS,68,tbd,10096,2009.0,Simulation,Aspyr  ,Aspyr  ,,,0.18,,,0.02,0.2
 7859,Zendoku,DS,68,tbd,16289,2007.0,Puzzle,Eidos Interactive  ,Zoonami Ltd.  ,,,0.05,0.0,,0.0,0.06
 7860,NBA 07,PSP,68,7.0,10048,2006.0,Sports,Sony Computer Entertainment  ,SCE San Diego Studio  ,6.9,,0.18,,,0.02,0.2
 7861,Justice League Heroes,XB,68,8.0,36452,2006.0,Role-Playing,Warner Bros. Interactive  ,Snowblind Studios  ,,,,,,,
-7862,Ice Age 2: The Meltdown,XB,68,tbd,14100,2006.0,Platform,Vivendi Games  ,EurocomÂ EntertainmentÂ Software  ,6.8,,0.07,0.02,,0.0,0.1
+7862,Ice Age 2: The Meltdown,XB,68,tbd,14100,2006.0,Platform,Vivendi Games  ,Eurocom Entertainment Software  ,6.8,,0.07,0.02,,0.0,0.1
 7863,Tom Clancy's EndWar,PSP,68,6.3,13131,2008.0,Strategy,Ubisoft  ,Funatics Software  ,6.7,,0.1,0.01,,0.01,0.11
 7864,Blitzkrieg 3,PC,68,3.9,54934,2017.0,Strategy,Nival Interactive  ,Nival Interactive  ,,,,,,,
 7865,Harry Potter and the Goblet of Fire,PS2,68,6.1,4673,2005.0,Adventure,Electronic Arts  ,Electronic Arts  ,6.7,,0.54,0.02,,0.09,0.65
@@ -7945,7 +7945,7 @@
 7943,Juiced,PS2,68,7.6,5463,2005.0,Racing,THQ  ,Juice Games  ,,,0.26,0.2,,0.07,0.53
 7944,Phantasy Star Universe,PS2,68,8.0,10079,2006.0,Role-Playing,Sega  ,Sonic Team  ,6.4,,,,0.19,,0.19
 7945,MechWarrior Online,PC,68,5.3,38869,2013.0,Misc,Infinite Game Publishing  ,Unknown  ,,,,,,,
-7946,Blueberry Garden,PC,68,6.7,26470,2009.0,Adventure,Erik SvedÃ¤ng  ,Erik SvedÃ¤ng  ,5.3,,,,,,
+7946,Blueberry Garden,PC,68,6.7,26470,2009.0,Adventure,Erik Svedäng  ,Erik Svedäng  ,5.3,,,,,,
 7947,Championship Manager 2008,PC,68,6.4,22049,2007.0,Sports,GamersGate  ,Beautiful Game Studios  ,,,,0.0,,0.0,0.0
 7948,Untold Legends: Brotherhood of the Blade,PSP,68,7.7,3046,2005.0,Role-Playing,Sony Online Entertainment  ,Sony Online Entertainment  ,6.5,,0.54,0.33,0.01,0.22,1.09
 7949,Hunter: The Reckoning Wayward,PS2,68,8.4,6357,2003.0,Action,VU Games  ,High Voltage Software  ,,,0.21,0.16,,0.06,0.43
@@ -7971,7 +7971,7 @@
 7969,TouchMaster 3,DS,68,tbd,6353,2009.0,Puzzle,Warner Bros. Interactive  ,Midway Studios San Diego  ,,,0.29,0.11,,0.04,0.43
 7970,Tron 2.0: Killer App,GBA,68,tbd,15878,2004.0,Action,Buena Vista  ,Digital Eclipse Software  ,,,0.04,0.02,,0.0,0.06
 7971,Squad Assault: West Front,PC,68,tbd,47524,2003.0,Strategy,Matrix Games   ,Freedom Games  ,,,,,,,
-7972,WWE Raw 2,XB,68,7.4,5219,2003.0,Fighting,THQ  ,"Anchor,Â Inc.  ",,,0.43,0.11,,0.02,0.56
+7972,WWE Raw 2,XB,68,7.4,5219,2003.0,Fighting,THQ  ,"Anchor, Inc.  ",,,0.43,0.11,,0.02,0.56
 7973,Grandia Xtreme,PS2,68,7.6,6906,2002.0,Role-Playing,Enix  ,Game Arts  ,6.7,,0.07,0.05,0.25,0.02,0.38
 7974,Sudden Strike II,PC,68,7.9,48122,2002.0,Strategy,CDV Software Entertainment  ,Fireglow Games  ,,,,,,,
 7975,Chicken Run,DC,68,7.5,27874,2000.0,Adventure,Eidos Interactive  ,Blitz Games  ,6.1,,,,,,
@@ -8356,7 +8356,7 @@
 8354,SnoCross Championship Racing,PS,66,tbd,3654,2000.0,Racing,Crave Entertainment  ,UDS  ,,,0.52,0.35,,0.06,0.93
 8355,Fitness Boxing,NS,66,6.7,3326,2019.0,Sports,Nintendo  ,Imagineer  ,7.0,,,,0.0,,0.0
 8356,We Ski & Snowboard,Wii,66,8.5,8329,2009.0,Sports,Namco Bandai  ,Namco Bandai Games  ,,,0.38,0.29,0.15,0.08,0.89
-8357,Ice Age 2: The Meltdown,Wii,66,8.0,14858,2006.0,Platform,Vivendi Games  ,EurocomÂ EntertainmentÂ Software  ,6.5,,0.06,0.01,,0.01,0.08
+8357,Ice Age 2: The Meltdown,Wii,66,8.0,14858,2006.0,Platform,Vivendi Games  ,Eurocom Entertainment Software  ,6.5,,0.06,0.01,,0.01,0.08
 8358,Looney Tunes: Duck Amuck,DS,66,8.0,7919,2007.0,Action,Warner Bros. Interactive  ,WayForward Technologies  ,6.4,,0.28,0.0,,0.02,0.3
 8359,AiRace Xeno,3DS,66,6.9,23731,2014.0,Action,Qubic Games  ,Qubic Games  ,,,,,,,
 8360,Adventures of Mana,PSV,66,8.1,23502,2016.0,Role-Playing,Square Enix  ,Square Enix  ,,,,,,,
@@ -8736,7 +8736,7 @@
 8734,Resident Evil: Dead Aim,PS2,65,6.7,7251,2003.0,Shooter,Capcom  ,Cavia Inc.  ,6.7,,0.17,0.13,,0.04,0.35
 8735,Conflict: Desert Storm,XB,65,8.3,3824,2002.0,Shooter,Gotham Games  ,Pivotal Games  ,,,0.48,0.37,,0.02,0.87
 8736,Taz Wanted,PS2,65,8.6,11108,2002.0,Platform,Atari  ,Blitz Games  ,5.5,,0.08,0.06,,0.02,0.16
-8737,Legends of Wrestling,XB,65,6.5,12200,2002.0,Fighting,Acclaim Entertainment  ,AcclaimÂ StudiosÂ SaltÂ LakeÂ City  ,,,0.1,0.03,,0.0,0.14
+8737,Legends of Wrestling,XB,65,6.5,12200,2002.0,Fighting,Acclaim Entertainment  ,Acclaim Studios Salt Lake City  ,,,0.1,0.03,,0.0,0.14
 8738,Dark Arena,GBA,65,7.8,17146,2002.0,Shooter,Majesco  ,Graphic State  ,6.8,,0.03,0.01,,0.0,0.04
 8739,Vampire Night,PS2,65,7.7,12173,2001.0,Shooter,Namco  ,Wow Entertainment  ,6.4,,0.07,0.05,,0.02,0.14
 8740,NBA Hoopz,DC,65,8.4,40511,2001.0,Sports,Midway Games  ,Eurocom Entertainment Software  ,6.6,,,,,,
@@ -9073,7 +9073,7 @@
 9071,N.E.R.O.: Nothing Ever Remains Obscure,XOne,64,7.6,57889,,Misc,Unknown  ,Storm in a Teacup  ,,,,,,,
 9072,Sea of Solitude,PC,64,6.5,59126,2019.0,Adventure,Electronic Arts  ,Jo-Mei Games  ,,,,,,,
 9073,The Crew,XOne,64,5.7,4360,2014.0,Racing,Ubisoft  ,Ubisoft Reflections  ,,,0.32,0.34,,0.06,0.71
-9074,Tiger Woods PGA Tour,DS,64,7.6,11807,2004.0,Sports,EA Sports  ,EAÂ Canada  ,,,0.13,0.0,,0.01,0.15
+9074,Tiger Woods PGA Tour,DS,64,7.6,11807,2004.0,Sports,EA Sports  ,EA Canada  ,,,0.13,0.0,,0.01,0.15
 9075,The Legend of Spyro: A New Beginning,PS2,64,7.0,49910,2006.0,Platform,Sierra Entertainment  ,Krome Studios  ,6.3,,,,,,
 9076,Academy of Champions: Soccer,Wii,64,6.8,12934,2009.0,Sports,Ubisoft  ,Ubisoft Vancouver  ,7.1,,0.09,0.02,,0.01,0.12
 9077,Batman Begins,PS2,64,7.7,5230,2005.0,Action,Electronic Arts  ,Eurocom Entertainment Software  ,,,0.27,0.21,,0.07,0.56
@@ -9396,7 +9396,7 @@
 9394,Ford Racing 2,XB,62,tbd,11656,2003.0,Racing,Gotham Games  ,Razorworks Studios  ,,,0.11,0.03,,0.01,0.15
 9395,Republic: The Revolution,PC,62,7.4,44209,2003.0,Strategy,Eidos Interactive  ,Elixir Studios  ,,,,,,,
 9396,Enter the Matrix,PS2,62,8.2,1086,2003.0,Action,Atari  ,Shiny Entertainment  ,,,1.78,1.12,0.09,0.19,3.18
-9397,Legends of Wrestling II,XB,62,tbd,12646,2002.0,Fighting,Acclaim Entertainment  ,AcclaimÂ StudiosÂ SaltÂ LakeÂ City  ,,,0.09,0.03,,0.0,0.13
+9397,Legends of Wrestling II,XB,62,tbd,12646,2002.0,Fighting,Acclaim Entertainment  ,Acclaim Studios Salt Lake City  ,,,0.09,0.03,,0.0,0.13
 9398,One Piece Mansion,PS,62,tbd,19823,2001.0,Action,Capcom  ,Capcom  ,,,0.01,0.01,,0.0,0.02
 9399,Kengo: Master of Bushido,PS2,62,8.6,6808,2001.0,Fighting,Crave Entertainment  ,LightWeight  ,,,0.16,0.13,0.06,0.04,0.39
 9400,Dynasty Warriors,PSP,62,7.2,5586,2005.0,Action,Tecmo Koei  ,Omega Force  ,6.6,,0.18,0.0,0.3,0.02,0.51
@@ -9651,7 +9651,7 @@
 9649,Redux: Dark Matters,PC,61,5.5,44121,2015.0,Misc,HuCast  ,Unknown  ,,,,,,,
 9650,Captain America: Super Soldier,PS3,61,7.5,10178,2011.0,Action,Sega  ,Next Level Games  ,6.2,,0.1,0.07,,0.03,0.2
 9651,Blood Bowl,X360,61,5.0,11098,2010.0,Sports,SouthPeak Interactive  ,Cyanide Studio  ,6.4,,0.13,0.02,,0.01,0.17
-9652,Shadow Ops: Red Mercury,XB,61,6.1,11592,2004.0,Shooter,Atari  ,ZombieÂ Studios  ,,,0.11,0.03,,0.01,0.15
+9652,Shadow Ops: Red Mercury,XB,61,6.1,11592,2004.0,Shooter,Atari  ,Zombie Studios  ,,,0.11,0.03,,0.01,0.15
 9653,Cities XL 2012,PC,61,5.6,15830,2011.0,Strategy,Focus Home Interactive  ,Monte Cristo Multimedia  ,6.0,,0.01,0.05,,0.01,0.06
 9654,Downward Spiral: Horus Station,PS4,61,4.8,55891,2018.0,Action-Adventure,3rd Eye Studios  ,3rd Eye Studios  ,,,,,,,
 9655,Reign of Fire,GBA,61,tbd,16840,2002.0,Shooter,BAM! Entertainment  ,Crawfish Interactive  ,,,0.03,0.01,,0.0,0.05
@@ -9715,7 +9715,7 @@
 9713,Civilization III: Play the World,PC,61,7.0,28113,2002.0,Strategy,Infogrames  ,Firaxis Games  ,,,,,,,
 9714,Prince of Qin,PC,61,7.6,43053,2002.0,Role-Playing,Strategy First  ,Object Software Limited  ,,,,,,,
 9715,Rune: Halls of Valhalla,PC,61,7.1,44855,2001.0,Action,Gathering of Developers  ,Human Head Studios  ,,,,,,,
-9716,Gauntlet: Seven Sorrows,XB,61,8.2,10574,2005.0,Role-Playing,Midway Games  ,MidwayÂ StudiosÂ SanÂ Diego  ,,,0.14,0.04,,0.01,0.18
+9716,Gauntlet: Seven Sorrows,XB,61,8.2,10574,2005.0,Role-Playing,Midway Games  ,Midway Studios San Diego  ,,,0.14,0.04,,0.01,0.18
 9717,Ar tonelico Qoga: Knell of Ar Ciel,PS3,61,7.8,9234,2011.0,Role-Playing,NIS America  ,Gust  ,7.0,,0.08,0.01,0.13,0.01,0.24
 9718,The Dwarves,PC,61,6.2,20114,2016.0,Role-Playing,THQ Nordic  ,KING Art Games  ,,,,0.01,,0.0,0.01
 9719,Vietcong 2,PC,61,6.0,22162,2005.0,Shooter,2K Games  ,Pterodon  ,,,,0.0,,0.0,0.0
@@ -9788,7 +9788,7 @@
 9786,Sega Casino,DS,61,tbd,14422,2005.0,Misc,Sega  ,TOSE  ,,,0.08,0.0,,0.01,0.09
 9787,Velvet Assassin,PC,61,6.2,22292,2009.0,Shooter,SouthPeak Interactive  ,Replay Studios  ,6.2,,,0.0,,0.0,0.0
 9788,Honeycomb Beat,DS,61,tbd,16159,2007.0,Puzzle,Konami  ,Hudson Soft  ,,,0.05,0.0,,0.0,0.06
-9789,Capcom Fighting Evolution,XB,61,7.2,17395,2005.0,Fighting,Capcom  ,CapcomÂ ProductionÂ StudioÂ 2  ,,,0.03,0.01,,0.0,0.04
+9789,Capcom Fighting Evolution,XB,61,7.2,17395,2005.0,Fighting,Capcom  ,Capcom Production Studio 2  ,,,0.03,0.01,,0.0,0.04
 9790,Arkanoid DS,DS,61,7.7,15982,2008.0,Puzzle,Square Enix  ,Taito Corporation  ,,,0.06,0.0,,0.0,0.06
 9791,Build-A-Bear Workshop,DS,61,4.7,3644,2007.0,Simulation,Game Factory  ,Neko Entertainment  ,,,0.85,0.01,,0.07,0.93
 9792,Build-A-Bear Workshop,DS,61,4.7,27014,2007.0,Simulation,Game Factory  ,Neko Entertainment  ,,,,,,,
@@ -10083,7 +10083,7 @@
 10081,FIFA Street,PS2,59,7.9,7754,2005.0,Sports,EA Sports BIG   ,EA Canada  ,,,0.15,0.12,,0.04,0.31
 10082,James Cameron's Avatar: The Game,PC,59,7.1,17304,2009.0,Action,Ubisoft  ,Ubisoft Montreal  ,6.4,,,0.04,,0.0,0.04
 10083,Sega Bass Fishing,Wii,59,6.0,5642,2008.0,Sports,Sega  ,Cavia Inc.  ,,,0.45,0.01,0.0,0.04,0.5
-10084,Gauntlet: Seven Sorrows,PS2,59,5.4,6644,2005.0,Role-Playing,Midway Games  ,MidwayÂ StudiosÂ SanÂ Diego  ,,,0.2,0.15,,0.05,0.4
+10084,Gauntlet: Seven Sorrows,PS2,59,5.4,6644,2005.0,Role-Playing,Midway Games  ,Midway Studios San Diego  ,,,0.2,0.15,,0.05,0.4
 10085,Rule of Rose,PS2,59,8.7,19096,2006.0,Action,Atlus  ,Punchline / Shirogumi  ,5.9,,0.01,0.01,,0.0,0.02
 10086,Aaru's Awakening,PC,59,2.8,23290,2013.0,Action,Unknown  ,Unknown  ,,,,,,,
 10087,Cars 3: Driven to Win,XOne,59,6.3,16803,2017.0,Racing,Warner Bros. Interactive Entertainment  ,Avalanche Software  ,,,0.04,,,0.01,0.05
@@ -10095,7 +10095,7 @@
 10093,Futurama,PS2,59,6.2,15177,2003.0,Platform,VU Games  ,Unique Development Studios Sweden  ,,,0.04,0.03,,0.01,0.07
 10094,Yu-Gi-Oh! The Duelists of the Roses,PS2,59,8.0,1477,2003.0,Misc,Konami  ,Konami  ,,,1.16,0.91,,0.3,2.38
 10095,Yu-Gi-Oh! The Duelists of the Roses,PS2,59,8.0,2406,2003.0,Action,Konami  ,Konami  ,7.0,,1.07,0.35,,,1.41
-10096,Legends of Wrestling II,PS2,59,6.1,7473,2002.0,Fighting,Acclaim Entertainment  ,AcclaimÂ StudiosÂ SaltÂ LakeÂ City  ,,,0.16,0.13,,0.04,0.33
+10096,Legends of Wrestling II,PS2,59,6.1,7473,2002.0,Fighting,Acclaim Entertainment  ,Acclaim Studios Salt Lake City  ,,,0.16,0.13,,0.04,0.33
 10097,Total Immersion Racing,PS2,59,7.8,13585,2002.0,Racing,Empire Interactive  ,Razorworks Studios  ,,,0.05,0.04,,0.01,0.11
 10098,The Lord of the Rings: The Fellowship of the Ring,PC,59,5.9,49959,2002.0,Action,Black Label Games  ,Surreal Software  ,,,,,,,
 10099,Davis Cup Tennis,GBA,59,tbd,19866,2002.0,Sports,Ubisoft  ,Hokus Pokus  ,6.4,,0.01,0.0,,0.0,0.02
@@ -10155,7 +10155,7 @@
 10153,Teenage Mutant Ninja Turtles,PS2,59,7.5,3658,2003.0,Action,Konami  ,Konami  ,,,0.45,0.35,,0.12,0.92
 10154,Robin Hood: Defender of the Crown,PS2,59,5.6,10478,2003.0,Strategy,Capcom  ,Cinemaware  ,,,0.09,0.07,,0.02,0.19
 10155,Monster House,PS2,59,5.4,11879,2006.0,Adventure,THQ  ,Artificial Mind and Movement  ,,,0.07,0.05,,0.02,0.14
-10156,L.A. Rush,XB,59,4.3,11828,2005.0,Racing,Midway Games  ,The PitbullÂ SyndicateÂ Limited  ,,,0.11,0.03,,0.01,0.14
+10156,L.A. Rush,XB,59,4.3,11828,2005.0,Racing,Midway Games  ,The Pitbull Syndicate Limited  ,,,0.11,0.03,,0.01,0.14
 10157,Ultimate Band,Wii,59,5.4,9113,2008.0,Misc,Disney Interactive Studios  ,Fall Line Studio  ,,,0.19,0.03,,0.02,0.24
 10158,Skater XL,XOne,59,4.4,59320,2020.0,Sports,Easy Day Studios Pty Ltd  ,Easy Day Studios Pty Ltd  ,,,,,,,
 10159,Lost in Blue 3,DS,59,6.3,10847,2008.0,Adventure,Konami  ,Konami  ,,,0.09,0.02,0.06,0.01,0.17
@@ -10290,7 +10290,7 @@
 10288,Shelter 2,PC,58,7.0,9170,2015.0,Adventure,Might and Delight  ,Might and Delight  ,,,,,,,
 10289,Front Mission Evolved,PS3,58,6.1,8049,2010.0,Shooter,Square Enix  ,Double Helix Games  ,,,0.09,0.07,0.11,0.03,0.29
 10290,Tomb Raider: Legend,DS,58,8.1,15465,2006.0,Adventure,Eidos Interactive  ,Crystal Dynamics  ,6.5,,0.04,0.02,,0.01,0.07
-10291,L.A. Rush,PS2,58,7.5,5950,2005.0,Racing,Midway Games  ,The PitbullÂ SyndicateÂ Limited  ,,,0.23,0.18,,0.06,0.47
+10291,L.A. Rush,PS2,58,7.5,5950,2005.0,Racing,Midway Games  ,The Pitbull Syndicate Limited  ,,,0.23,0.18,,0.06,0.47
 10292,Jane's Attack Squadron,PC,58,tbd,36046,2002.0,Simulation,Xicat Interactive  ,Mad Doc Software  ,,,,,,,
 10293,TRON: Evolution,X360,58,6.0,7841,2010.0,Action,Disney Interactive Studios  ,Propaganda Games  ,,,0.24,0.05,,0.02,0.31
 10294,The Church in the Darkness,XOne,58,6.5,60087,2019.0,Action-Adventure,Paranoid Productions  ,Paranoid Productions  ,,,,,,,
@@ -10302,7 +10302,7 @@
 10300,Nickelodeon Kart Racers 2: Grand Prix,PS4,58,6.9,58030,2020.0,Racing,GameMill Entertainment  ,Bamtang  ,,,,,,,
 10301,Defenders of Ardania,PC,58,4.6,20895,1970.0,Strategy,Paradox Interactive   ,Most Wanted Entertainment  ,,,,0.01,,0.0,0.01
 10302,Aliens in the Attic,DS,58,6.7,16525,2009.0,Action,Playlogic Game Factory  ,Playlogic Game Factory  ,,,0.05,0.0,,0.0,0.05
-10303,Resident Evil Outbreak File #2,PS2,58,8.0,5164,2005.0,Action,Capcom  ,CapcomÂ ProductionÂ StudioÂ 1  ,5.8,,0.19,0.15,0.17,0.05,0.57
+10303,Resident Evil Outbreak File #2,PS2,58,8.0,5164,2005.0,Action,Capcom  ,Capcom Production Studio 1  ,5.8,,0.19,0.15,0.17,0.05,0.57
 10304,Super Army War,GBA,58,tbd,17675,2005.0,Action,Atlus  ,Atlus Co.  ,,,0.03,0.01,,0.0,0.04
 10305,Spider-Man: Friend or Foe,PSP,58,4.4,10677,2007.0,Action,Activision  ,Artificial Mind and Movement  ,5.0,,0.16,0.0,,0.01,0.18
 10306,Singles: Flirt Up Your Life,PC,58,7.3,46408,2004.0,Simulation,Eidos Interactive  ,Rotobee  ,,,,,,,
@@ -10404,7 +10404,7 @@
 10402,Bladestorm: The Hundred Years' War,PS3,58,7.9,8234,2007.0,Action,KOEI  ,Omega Force  ,,,0.1,0.03,0.14,0.02,0.28
 10403,1-2-Switch,NS,58,4.8,1083,2017.0,Party,Nintendo  ,Nintendo EPD  ,5.7,,0.62,1.2,0.5,0.15,2.46
 10404,The Lord of the Rings: Aragorn's Quest,Wii,58,8.2,9280,2010.0,Action,Warner Bros. Interactive  ,Headstrong Games  ,6.4,,0.17,0.05,,0.02,0.23
-10405,Starsky & Hutch,XB,58,5.7,9311,2003.0,Racing,Gotham Games  ,Minds-EyeÂ Productions  ,6.0,,0.17,0.05,,0.01,0.23
+10405,Starsky & Hutch,XB,58,5.7,9311,2003.0,Racing,Gotham Games  ,Minds-Eye Productions  ,6.0,,0.17,0.05,,0.01,0.23
 10406,Zapper: One Wicked Cricket!,GBA,58,tbd,11952,2002.0,Platform,Infogrames  ,Blitz Games  ,,,0.1,0.04,,0.0,0.14
 10407,Gore: Ultimate Soldier,PC,58,7.2,33919,2002.0,Shooter,DreamCatcher Interactive  ,4D Rulers  ,,,,,,,
 10408,Darkstone,PS,58,7.6,4601,2001.0,Role-Playing,Take-Two Interactive  ,Delphine Software International  ,6.7,,0.37,0.25,,0.04,0.66
@@ -10486,7 +10486,7 @@
 10484,Empire Earth II: The Art of Supremacy,PC,57,6.7,31409,2006.0,Strategy,VU Games  ,Mad Doc Software  ,5.7,,,,,,
 10485,NASCAR 08,PS3,57,4.6,9357,2007.0,Racing,EA Sports  ,EA Tiburon  ,,,0.15,0.05,,0.03,0.23
 10486,Pirates of the Caribbean: At World's End,PC,57,6.2,42443,2007.0,Action,Disney Interactive Studios  ,Eurocom Entertainment Software  ,,,,,,,
-10487,Showdown: Legends of Wrestling,XB,57,tbd,12878,2004.0,Fighting,Acclaim Entertainment  ,AcclaimÂ StudiosÂ Austin  ,,,0.09,0.03,,0.0,0.12
+10487,Showdown: Legends of Wrestling,XB,57,tbd,12878,2004.0,Fighting,Acclaim Entertainment  ,Acclaim Studios Austin  ,,,0.09,0.03,,0.0,0.12
 10488,Boogie,Wii,57,5.3,5773,2007.0,Misc,Electronic Arts  ,EA Montreal  ,,,0.43,0.03,,0.04,0.49
 10489,Corvette,PS2,57,6.3,2559,2004.0,Racing,Global Star Software  ,Steel Monkeys  ,,,0.65,0.51,,0.17,1.33
 10490,Spawn: Armageddon,XB,57,7.1,10936,2003.0,Action,Namco  ,Point of View  ,,,0.13,0.04,,0.01,0.17
