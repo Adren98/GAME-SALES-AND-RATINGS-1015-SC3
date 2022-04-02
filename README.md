@@ -9,7 +9,6 @@ For a detailed walkthrough, please view the files in the following order:
 
 ***
 # Contributors
-***
 * Vignesh Ezhil @viggy2000
     * Data merging, cleaning and machine learning (ML)
 * Adren Lim @adren98
@@ -17,4 +16,4 @@ For a detailed walkthrough, please view the files in the following order:
 * Quek Kar Min @qkm2000
     * Data scraping, collation and exploratory data analysis (EDA)
 
-what else do we need to include for a readme?
+***
