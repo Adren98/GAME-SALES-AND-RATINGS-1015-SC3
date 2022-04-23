@@ -1,6 +1,9 @@
 # About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) that focuses on predicting the total sales of a game, based on their respective user and critic ratings from VGChartz and Meta. VGChartz and Meta are two renowned websites that critique and review games.
 
+To view source code:
+Use the [Submission Folder](https://github.com/Adren98/GAME-SALES-AND-RATINGS-1015-SC3/tree/main/Submission)
+
 ***
 # Contributors
 * Vignesh Ezhil [@viggy2000](https://github.com/viggy2000): Data merging, Data Scraping, Data cleaning 
@@ -11,7 +14,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 # Problem Definition
 
-* How can we make use of [indicators] to predict the Global Sales of games?
+* How can we make use of Platforms, Genres, Meta_Scores and Year to predict the Global Sales of games?
 
 ***
 
