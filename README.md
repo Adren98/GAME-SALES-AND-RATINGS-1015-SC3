@@ -43,6 +43,7 @@ CatBoost builds upon the theory of decision trees and gradient boosting. The mai
 # Skills Learnt
 
 * Collaborating via GitHub
+* CatBoost
 * 
 
 ***
