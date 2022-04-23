@@ -3,9 +3,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ***
 # Contributors
-* Vignesh Ezhil [@viggy2000]: Data merging, Data Scraping , Data cleaning 
-* Adren Lim [@adren98]: Machine learning (ML)
-* Quek Kar Min [@qkm2000]: Exploratory data analysis (EDA)
+* Vignesh Ezhil [@viggy2000](https://github.com/viggy2000): Data merging, Data Scraping , Data cleaning 
+* Adren Lim [@adren98](https://github.com/adren98): Machine learning (ML)
+* Quek Kar Min [@qkm2000](https://github.com/qkm2000): Exploratory data analysis (EDA)
 
 ***
 
