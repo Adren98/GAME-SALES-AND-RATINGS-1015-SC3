@@ -61,5 +61,6 @@ Tensorflow gives us more flexibility on how our hidden layers are built, it prov
 
 # References
 
-* [Kaggle Meta Dataset](https://www.kaggle.com/datasets/gregorut/videogamesales)
+* [Kaggle Meta Dataset](https://www.kaggle.com/datasets/deepcontractor/top-video-games-19952021-metacritic)
 * [VGChartz](https://www.vgchartz.com/)
+* [Python VGChartz Scraper](https://github.com/GregorUT/vgchartzScrape)
