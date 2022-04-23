@@ -53,6 +53,7 @@ Tensorflow gives us more flexibility on how our hidden layers are built, it prov
 # Skills Learnt
 
 * Collaborating via GitHub
+* Collaborating via Google Collab
 * CatBoost
 * Tensorflow
 
