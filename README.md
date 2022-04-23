@@ -1,12 +1,6 @@
 # About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) that focuses on predicting the total sales of a game, based on their respective user and critic ratings from VGChartz and Meta. VGChartz and Meta are two renowned websites that critique and review games.
 
-For a detailed walkthrough, please view the files in the following order:
-
-1. Data Scraping and Collation
-2. Data Cleaning, Merging and Analysis
-3. Machine Learning
-
 ***
 # Contributors
 * Vignesh Ezhil @viggy2000: Data merging, cleaning and machine learning (ML)
@@ -32,7 +26,7 @@ For a detailed walkthrough, please view the files in the following order:
 
 [2. Data Cleaning, Merging and Analysis](https://github.com/Adren98/1015/tree/main/Submission/2.%20Data%20Cleaning%2C%20Merging%20and%20Analysis)
 
-[3. Machine Learning]
+[3. Machine Learning](https://github.com/Adren98/GAME-SALES-AND-RATINGS-1015-SC3/tree/main/Submission/3.%20Machine%20Learning)
 
 ***
 
@@ -45,9 +39,10 @@ For a detailed walkthrough, please view the files in the following order:
 # Skills Learnt
 
 * Collaborating via GitHub
+* 
 
 ***
 
 # References
 
-* do we have any?
+* 
