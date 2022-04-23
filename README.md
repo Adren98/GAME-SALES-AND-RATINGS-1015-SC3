@@ -11,7 +11,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 # Problem Definition
 
-* How can we make use of [indicators] to predict the Global Sales of games?
+* How can we make use of Genre, Publisher, Meta_Score, Platform and Year to predict the Global Sales of games?
 
 ***
 
@@ -19,7 +19,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjifalk1omESSaUXBBKVI16qaoPQYPxya-Sd5Gm__po7WPeP8R3aDBZD-hnYZbWYeSdg&usqp=CAU)
 
-For the first model, we will be using Catboost. CatBoost is a relatively new open-source machine learning algorithm, developed in 2017 by a company named Yandex. One of CatBoost’s core edges is its ability to integrate a variety of different data types, such as images, audio, or text features into one framework. Catboost makes it easy to handle categorical data, opposed to the majority of other machine learning algorithms, that cannot handle non-numeric values. From a feature engineering perspective, the transformation from a non-numeric state to numeric values can be a very non-trivial and tedious task, and CatBoost makes this step obsolete.
+CatBoost is a relatively new open-source machine learning algorithm, developed in 2017 by a company named Yandex. One of CatBoost’s core edges is its ability to integrate a variety of different data types, such as images, audio, or text features into one framework. Catboost makes it easy to handle categorical data, opposed to the majority of other machine learning algorithms, that cannot handle non-numeric values. From a feature engineering perspective, the transformation from a non-numeric state to numeric values can be a very non-trivial and tedious task, and CatBoost makes this step obsolete.
 
 CatBoost builds upon the theory of decision trees and gradient boosting. The main idea of boosting is to sequentially combine many weak models (a model performing slightly better than random chance) and thus through greedy search create a strong competitive predictive model.
 
@@ -37,9 +37,9 @@ CatBoost builds upon the theory of decision trees and gradient boosting. The mai
 # Conclusion
 
 * Contrary to popular belief, Game Ratings do not very accurately determine game sales
-* Since there are weak correlations between ratings, platform and genre and sales, this means that they may not be sufficient to determine the final sales of each game
+* Since there are weak correlations between our indicators and the sales of games, this means that they may not be sufficient to determine the final sales of each game
 * Additionally, there are other factors affecting the sales as well, such as marketing strategies and player sentiment 
-* Hence, these categories and indicators should not be used as the primary indicators
+* Hence, these indicators should not be used as the primary indicators
 
 ***
 
