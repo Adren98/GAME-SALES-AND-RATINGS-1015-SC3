@@ -25,7 +25,7 @@ CatBoost builds upon the theory of decision trees and gradient boosting. The mai
 
 ![](https://cdn-images-1.medium.com/max/984/1*78KMHVVecnTzkLbN7xW0tQ.png)
 
-For our second model, we will be using Tensorflow to create a deep neural network model, TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.
+TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.
 
 Tensorflow gives us more flexibility on how our hidden layers are built, it provides many customizations and allows the user to choose, for example, the number of nodes in each hidden layer, the activation functions, loss function and the optimizer that we want to use for our model. In addition, Keras, which is a high-level neural network library that runs on top of TensorFlow, makes it easier to do.
 
