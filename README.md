@@ -54,7 +54,7 @@ Tensorflow gives us more flexibility on how our hidden layers are built, it prov
 
 * Collaborating via GitHub
 * CatBoost
-* 
+* Tensorflow
 
 ***
 
