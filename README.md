@@ -36,7 +36,10 @@ CatBoost builds upon the theory of decision trees and gradient boosting. The mai
 
 # Conclusion
 
-* Something
+* Contrary to popular belief, Game Ratings do not very accurately determine game sales
+* Since there are weak correlations between ratings, platform and genre and sales, this means that they may not be sufficient to determine the final sales of each game
+* Additionally, there are other factors affecting the sales as well, such as marketing strategies and player sentiment 
+* Hence, these categories and indicators should not be used as the primary indicators
 
 ***
 
