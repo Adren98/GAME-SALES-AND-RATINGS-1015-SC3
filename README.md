@@ -17,7 +17,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 # Models Used
 
-![](https://mljar.com/images/machine-learning/catboost.png)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjifalk1omESSaUXBBKVI16qaoPQYPxya-Sd5Gm__po7WPeP8R3aDBZD-hnYZbWYeSdg&usqp=CAU)
 
 For the first model, we will be using Catboost. CatBoost is a relatively new open-source machine learning algorithm, developed in 2017 by a company named Yandex. One of CatBoost’s core edges is its ability to integrate a variety of different data types, such as images, audio, or text features into one framework. Catboost makes it easy to handle categorical data, opposed to the majority of other machine learning algorithms, that cannot handle non-numeric values. From a feature engineering perspective, the transformation from a non-numeric state to numeric values can be a very non-trivial and tedious task, and CatBoost makes this step obsolete.
 
